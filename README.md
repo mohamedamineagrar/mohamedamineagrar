@@ -17,7 +17,7 @@ I work with Python and SQL, with practical experience in computer vision, NLP, p
 - **1337 Coding School — Full-Stack Development Intern** · April–June 2024  
   Developed a student booking platform using Next.js and Prisma, with Google Maps integration and OAuth 2.0/JWT authentication.
 
-## Selected projects
+## Academic projects
 
 | Project | Overview |
 | --- | --- |

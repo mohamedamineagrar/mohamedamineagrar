@@ -1,46 +1,91 @@
-# Hi, I'm Mohamed Amine Agrar
+<p align="center">
+  <img src="assets/header.svg" alt="Mohamed Amine Agrar — Data Science and AI" width="100%" />
+</p>
 
-**Final-year engineering student in Data Science, Big Data & Artificial Intelligence at ENSIASD, Taroudant, Morocco.**
+<p align="center">
+  <strong>Machine Learning · Computer Vision · Data Engineering</strong><br />
+  Final-year engineering student at ENSIASD · Casablanca, Morocco
+</p>
 
-I'm seeking a **six-month final-year internship (PFE) starting February 2027** in AI, data science, machine learning, or data engineering. **Open to relocation.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-amine-agrar-145580294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:mohamedamine.agrar@gmail.com"><img src="https://img.shields.io/badge/Email-Let%27s%20talk-0F766E?style=flat-square" alt="Email" /></a>
+</p>
 
-I work with Python and SQL, with practical experience in computer vision, NLP, predictive modeling, and data pipelines. I'm based in Casablanca, Morocco, and expect to graduate in 2027.
+---
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-amine-agrar-145580294/) · [Email](mailto:mohamedamine.agrar@gmail.com)
+### A little about me
 
-## Experience
+I'm Mohamed Amine, a final-year **Data Science, Big Data & AI engineering student** at ENSIASD, Taroudant, graduating in 2027. My experience spans computer vision, NLP, recommendation systems, and data pipelines, with internships at **Orange Maroc** and **Groupe OCP**.
 
-- **Orange Maroc — Computer Vision & Data Science Intern** · July–September 2026  
-  Developed multi-camera face detection and recognition pipelines with Python/PyTorch on NVIDIA Jetson, built a collaborative filtering recommendation model, and contributed to AWS infrastructure and deployment for the AlphaData retail analytics platform.
-- **Groupe OCP — Data Science Intern** · July–August 2025  
-  Developed an automated NLP pipeline to classify emails into seven categories, integrated the Gmail API with OAuth 2.0, and compared machine learning models using cross-validation and GridSearchCV.
-- **1337 Coding School — Full-Stack Development Intern** · April–June 2024  
-  Developed a student booking platform using Next.js and Prisma, with Google Maps integration and OAuth 2.0/JWT authentication.
+I enjoy taking a problem from data preparation and modeling through to a useful application.
 
-## Academic projects
+> **Seeking a six-month PFE internship starting February 2027. Open to relocation.**
 
-| Project | Overview |
+### Featured work
+
+#### 01 · AlphaData — Smart Retail Analytics
+**Orange Maroc internship · July–September 2026**
+
+Contributed to a platform for analyzing customer behavior in stores in real time. My work included multi-camera face detection and recognition pipelines on NVIDIA Jetson, a collaborative filtering recommendation model, and contributions to AWS infrastructure and cloud deployment.
+
+`Python` `PyTorch` `Computer Vision` `NVIDIA Jetson` `AWS / SageMaker`
+
+#### 02 · [Tennis Match Prediction](https://github.com/mohamedamineagrar/tennis-match-prediction)
+**Data science & machine learning project**
+
+Predicting ATP match winners using historical data, player rankings, surface, and recent form. Compared logistic regression, XGBoost, and LightGBM with a temporal data split, and built a Streamlit interface for predictions and win probabilities.
+
+`Python` `Feature Engineering` `XGBoost` `LightGBM` `Streamlit`
+
+[Explore the repository →](https://github.com/mohamedamineagrar/tennis-match-prediction)
+
+#### 03 · Face Anti-Spoofing with Swin Transformer
+**Team research project · March 2026**
+
+Contributed to research on distinguishing real faces from photo, video, and mask spoofing attempts. The team worked with **18,827 images**, compared fine-tuning strategies, evaluated FGSM and PGD attacks, and explored adversarial training to improve robustness.
+
+`Deep Learning` `Swin Transformer` `Computer Vision` `Adversarial Robustness`
+
+### My toolkit
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+</p>
+
+| Focus | Tools & skills |
 | --- | --- |
-| [Tennis Match Prediction](https://github.com/mohamedamineagrar/tennis-match-prediction) | Predicting ATP match winners using historical data, feature engineering, and comparisons of logistic regression, XGBoost, and LightGBM. Includes temporal evaluation and a Streamlit prediction interface. |
-| [NutriTrack](https://github.com/mohamedamineagrar/Linka) | Hackathon project built by a team of three: a cold-chain monitoring platform combining a Python/FastAPI backend, a React dashboard, and agent-based workflows for shipment analysis. |
+| Data science & ML | pandas, NumPy, PyTorch, TensorFlow, Keras |
+| Vision & NLP | OpenCV, Hugging Face Transformers |
+| Data engineering | SQL, ETL pipelines, Kafka, data quality & validation |
+| Databases | PostgreSQL, MongoDB, ChromaDB, Faiss |
+| Cloud & development | AWS, Amazon SageMaker, Docker, Git, Java, C/C++, JavaScript |
 
-### Face anti-spoofing with Swin Transformer
+<details>
+<summary><strong>More experience & projects</strong></summary>
 
-Contributor to a team research project on face anti-spoofing with Swin Transformer. The project used 18,827 images to distinguish real faces from photo, video, and mask spoofing attempts, compared fine-tuning methods, evaluated FGSM and PGD attacks, and explored adversarial training to improve robustness.
+- **Groupe OCP · Data Science Intern · July–August 2025:** developed an NLP email-classification pipeline for seven categories, integrated Gmail API/OAuth 2.0, and compared models with cross-validation and GridSearchCV.
+- **1337 Coding School · Full-Stack Intern · April–June 2024:** developed a student booking platform with Next.js, Prisma, Google Maps, and OAuth 2.0/JWT authentication.
+- **[NutriTrack](https://github.com/mohamedamineagrar/Linka) · Hackathon, team of three:** cold-chain monitoring with FastAPI, a React dashboard, and agent-based shipment analysis.
 
-## Technical skills
+</details>
 
-| Area | Technologies |
-| --- | --- |
-| Programming | Python, SQL, Java, C/C++, JavaScript |
-| Data science & machine learning | pandas, NumPy, PyTorch, TensorFlow, Keras |
-| Computer vision & NLP | OpenCV, Hugging Face Transformers |
-| Data engineering & databases | ETL pipelines, data quality and validation, Kafka, PostgreSQL, MongoDB, ChromaDB, Faiss |
-| Cloud & tools | AWS, Amazon SageMaker, Docker, Git, GitHub |
+<details>
+<summary><strong>Education & languages</strong></summary>
 
-## Education
+- **Engineering degree — Data Science, Big Data & AI**, ENSIASD, Taroudant · 2024–2027 (expected)
+- **University Diploma of Technology — Computer Engineering**, École Supérieure de Technologie, Fqih Ben Salah · 2022–2024
+- **Languages:** Arabic (native), French (advanced), English (professional working proficiency)
 
-- **Engineering degree, Data Science, Big Data & Artificial Intelligence** — ENSIASD, Taroudant · 2024–2027 (expected)
-- **University Diploma of Technology, Computer Engineering** — École Supérieure de Technologie, Fqih Ben Salah · 2022–2024
+</details>
 
-**Languages:** Arabic (native), French (advanced), English (professional working proficiency).
+---
+
+<p align="center">
+  Interested in working together? <a href="mailto:mohamedamine.agrar@gmail.com">Let's connect.</a>
+</p>

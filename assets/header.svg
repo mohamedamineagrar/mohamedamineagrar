@@ -1,1 +1,19 @@
-profile/assets/header.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Mohamed Amine Agrar</title>
+  <desc id="desc">Data Science and AI. From data to useful intelligence.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142b46"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <g stroke="#7dd3fc" stroke-opacity="0.16" stroke-width="1.5" fill="none">
+    <path d="M890 60 990 108 1100 55M890 60 910 180 990 108 1060 220 1140 150 1100 55M910 180 1060 220M990 108 1140 150"/>
+    <circle cx="990" cy="108" r="58"/><circle cx="990" cy="108" r="104" stroke-opacity="0.06"/>
+  </g>
+  <g fill="#38bdf8"><circle cx="890" cy="60" r="5"/><circle cx="990" cy="108" r="7"/><circle cx="1100" cy="55" r="5"/><circle cx="910" cy="180" r="5"/><circle cx="1060" cy="220" r="5"/><circle cx="1140" cy="150" r="5"/></g>
+  <rect x="58" y="53" width="44" height="4" rx="2" fill="url(#accent)"/>
+  <text x="58" y="95" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#7dd3fc">DATA SCIENCE &amp; AI</text>
+  <text x="55" y="157" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#f1f5f9">Mohamed Amine Agrar</text>
+  <text x="58" y="202" font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#b5c8da">From data to useful intelligence.</text>
+  <rect y="274" width="1200" height="6" fill="url(#accent)"/>
+</svg>
